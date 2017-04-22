@@ -39,25 +39,25 @@ function draw() {
   rect(0, blockheight * 9, blockwidth, blockheight)
 
   //Column 2
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, 0, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 2, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 3, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 4, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 5, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 6, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 7, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 9, blockwidth, blockheight)
 
 var n = 2;
