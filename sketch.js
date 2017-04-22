@@ -172,75 +172,75 @@ var n = 6;
   rect(blockwidth * n, blockheight * 7, blockwidth, blockheight)
   fill(color(g));
   rect(blockwidth * n, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(g));
   rect(blockwidth * n, blockheight * 9, blockwidth, blockheight)
 
 var n = 7;
   //Column 8
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, 0, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight * 2, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight * 3, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight * 4, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight * 5, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight * 6, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight * 7, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(h));
   rect(blockwidth * n, blockheight * 9, blockwidth, blockheight)
 
 var n = 8;
   //Column 9
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, 0, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight * 2, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight * 3, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight * 4, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight * 5, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight * 6, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight * 7, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(i));
   rect(blockwidth * n, blockheight * 9, blockwidth, blockheight)
 
 var n = 9;
   //Column 10
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, 0, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight * 2, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight * 3, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight * 4, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight * 5, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight * 6, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight * 7, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(j));
   rect(blockwidth * n, blockheight * 9, blockwidth, blockheight)
 }
